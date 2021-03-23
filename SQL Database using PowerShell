@@ -1,0 +1,7 @@
+Task 1 - Defined Variables for our server and database
+Task 2 - Created a Resource Group called "myResourceGroup" from powershell.
+Task3 - Created a Server 
+Task 4 - Created a firewall rule indicating that no user can access our server.
+Task 5 - Created the SQL database 
+Task6 - Went into the Portal and allowed ourselves to access the server by adding a client ip adress
+Task 7 - Tested out our database and our lab was successfully complete.
